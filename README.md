@@ -1,3 +1,3 @@
 # FatcalCulator
 体脂率计算器
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Alt text](https://github.com/hualuoxyz/FatcalCulator/blob/master/体脂率计算器.PNG)
