@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spingarr">
+        <item>我是男生</item>
+        <item>我是女生</item>
+    </string-array>
+    <string-array name="agearray">
+        <item>18&#8211;39岁</item>
+        <item>40&#8211;59岁</item>
+        <item>大于60岁</item>
+    </string-array>
+</resources>
